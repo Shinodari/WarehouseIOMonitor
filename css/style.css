@@ -1,7 +1,18 @@
 header{
     background-color: #063D78;
-    height: 50px;
+    /*height: 50px;/**/
     border-bottom: #2488F4 solid 10px;
+    padding: 0.5vw 2vw;
+}
+
+header .suplierName{
+    color: white;
+    font-size: 32px;
+    font-weight: bold;
+}
+
+section{
+    height: 200px;
 }
 
 footer {
